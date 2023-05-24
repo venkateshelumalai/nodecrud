@@ -11,8 +11,9 @@ This is a Node.js and Express.js backend API that provides CRUD operations for p
 - git clone <repository_url>
 
 2. Install dependencies:
-3. 
-3. Set up the MongoDB database:
+- npm install
+- npm install express
+4. Set up the MongoDB database:
 - Install MongoDB (if not already installed) and start the MongoDB service.
 - Create a new database named `product_api`.
 
