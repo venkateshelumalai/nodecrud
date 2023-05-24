@@ -1,0 +1,32 @@
+{
+  "name": "nodejstesting",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "dev": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venkateshelumalai/nodecrud.git"
+  },
+  "keywords": [
+    "venkat"
+  ],
+  "author": "venkateshElumalai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/venkateshelumalai/nodecrud/issues"
+  },
+  "homepage": "https://github.com/venkateshelumalai/nodecrud#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.2.0",
+    "mysql": "^2.18.1",
+    "path": "^0.12.7"
+  }
+}
