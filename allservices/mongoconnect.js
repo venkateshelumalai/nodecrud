@@ -1,5 +1,5 @@
 
-const mongoose = require('mongoose');
+const mongoose = require('mongoose'); // added by venkat on 24 May 23
 
 
 mongoose.connect('mongodb://localhost/productsDB', {
